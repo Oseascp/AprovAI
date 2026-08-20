@@ -1,0 +1,6 @@
+{
+  "name": "AprovAI",
+  "description": "Plataforma inteligente de análise de editais, cronograma personalizado de estudos com IA, simulados e acompanhamento para concursos públicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
